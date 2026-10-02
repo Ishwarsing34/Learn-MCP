@@ -8,5 +8,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "A comprehensive, hands-on course that teaches you everything about **Model Context Protocol (MCP)** - from creating your first MCP server to deploying production-ready applications using Docker and cloud-native architectures.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ishwarsing34/Learn-MCP.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ishwarsing34/Learn-MCP/issues"
+  },
+  "homepage": "https://github.com/Ishwarsing34/Learn-MCP#readme"
 }
