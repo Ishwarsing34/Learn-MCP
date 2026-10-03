@@ -5,7 +5,7 @@ mcp = FastMCP()
 
 @mcp.tool()
 async def fetch():
-    '''Use this tool to fetch data from a source.'''
+    '''Use this tool to      fetch data from a source.'''
 
     # Simulate fetching data from a source
     ''' You can make some API calls here or fetch data from a database '''
